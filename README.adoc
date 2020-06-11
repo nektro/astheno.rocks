@@ -3,6 +3,7 @@
 image:https://sloc.xyz/github/nektro/astheno.rocks[loc]
 image:https://img.shields.io/github/license/nektro/astheno.rocks.svg[license,link="https://github.com/nektro/astheno.rocks/blob/master/LICENSE"]
 image:https://img.shields.io/discord/551971034593755159.svg?logo=discord[discord,link="https://discord.gg/P6Y4zQC"]
+image:https://api.netlify.com/api/v1/badges/c47f77db-0618-4fba-8e70-668988e9dd6b/deploy-status[link="https://app.netlify.com/sites/elated-jones-9b48c7/deploys"]
 
 The source for the Web homepage for the Astheno applications: https://astheno.rocks.
 
