@@ -38,3 +38,9 @@ The Astheno suite of apps is a collection of self-hostable web servers developed
 | Discord, Slack
 
 |===
+
+## Community
+
+image:https://img.shields.io/discord/551971034593755159.svg?logo=discord[discord,link="https://discord.gg/P6Y4zQC"]
+
+As Mantle continues to grow in maturity, the current community is focused in the above Discord available here: https://discord.gg/P6Y4zQC.
