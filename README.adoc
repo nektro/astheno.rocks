@@ -44,3 +44,15 @@ The Astheno suite of apps is a collection of self-hostable web servers developed
 image:https://img.shields.io/discord/551971034593755159.svg?logo=discord[discord,link="https://discord.gg/P6Y4zQC"]
 
 As Mantle continues to grow in maturity, the current community is focused in the above Discord available here: https://discord.gg/P6Y4zQC.
+
+## Donate
+
+Astheno is developed entirely in my spare time and powered by donations. My links can be found below.
+
+- image:https://unpkg.com/simple-icons/icons/stellar.svg[,24] `GDE24X35RCFKKGX6ZSZ7IHBEAHCI6TCRPEJVCAFJ2QYSD4O4PI5NUMPR`
+- image:https://unpkg.com/simple-icons/icons/bitcoin.svg[,24] `bc1q594plq42twljm4e2vdp5j6zt3crsrzrruthsnq`
+- image:https://unpkg.com/simple-icons/icons/ethereum.svg[,24] `0x4988b557c2cEf8c43766Db7BdF4200767f58c129`
+- image:https://unpkg.com/simple-icons/icons/litecoin.svg[,24] `MVNybn4UUg5XzNe8RQDoA1dpQEJVLHNKTU`
+- Dogecoin: `DUCw8WJDFLWaQgC5QsNRTJ5HmfEt4bWvjH`
+
+If your values align with the project and are interested in sponsoring me, do please get in touch.
