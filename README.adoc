@@ -7,3 +7,34 @@ image:https://img.shields.io/discord/551971034593755159.svg?logo=discord[discord
 The source for the Web homepage for the Astheno applications: https://astheno.rocks.
 
 The Astheno suite of apps is a collection of self-hostable web servers developed by @nektro that can be run to enjoy many of the same kinds of services you know already and some new ones, all right on your own hardware. This ideas behind this project largely align with those of https://indieweb.org/ and are on a mission to help users use the types of applications they know and love while being easy to setup and use and taking back control of their data at the same time. Operationally speaking, they adhere to https://12factor.net/ and are designed to be easy to setup for small users as well as be compatible with large enterprise deployments.
+
+## Projects
+
+|===
+| Link | GitHub | Latest Release | Docker Pulls | Alternative To
+
+| https://astheno.rocks/andesite
+| image:https://img.shields.io/github/stars/nektro/andesite[link="https://github.com/nektro/andesite"]
+| image:https://img.shields.io/github/v/release/nektro/andesite[link="https://github.com/nektro/andesite/releases/latest"]
+| image:https://img.shields.io/docker/pulls/nektro/andesite[link="https://hub.docker.com/r/nektro/andesite"]
+| **{New}**
+
+| https://astheno.rocks/skarn
+| image:https://img.shields.io/github/stars/nektro/skarn[link="https://github.com/nektro/skarn"]
+| image:https://img.shields.io/github/v/release/nektro/skarn[link="https://github.com/nektro/skarn/releases/latest"]
+| image:https://img.shields.io/docker/pulls/nektro/skarn[link="https://hub.docker.com/r/nektro/skarn"]
+| **{New}**
+
+| https://astheno.rocks/dacite
+| image:https://img.shields.io/github/stars/nektro/dacite[link="https://github.com/nektro/dacite"]
+| image:https://img.shields.io/github/v/release/nektro/dacite[link="https://github.com/nektro/dacite/releases/latest"]
+| image:https://img.shields.io/docker/pulls/nektro/dacite[link="https://hub.docker.com/r/nektro/dacite"]
+| Imgur, ImgBB
+
+| https://astheno.rocks/mantle
+| image:https://img.shields.io/github/stars/nektro/mantle[link="https://github.com/nektro/mantle"]
+| image:https://img.shields.io/github/v/release/nektro/mantle[link="https://github.com/nektro/mantle/releases/latest"]
+| image:https://img.shields.io/docker/pulls/nektro/mantle[link="https://hub.docker.com/r/nektro/mantle"]
+| Discord, Slack
+
+|===
