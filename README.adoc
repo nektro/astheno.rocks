@@ -61,3 +61,6 @@ If your values align with the project and are interested in sponsoring me, do pl
 - hello@nektro.net
 - Meghan#2032 on discordapp.com
 - https://twitter.com/nektro
+
+## License
+Apache 2.0
